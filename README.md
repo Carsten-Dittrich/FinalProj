@@ -15,4 +15,5 @@ The program is divided into four scripts.
 4. Analysis: This script collects all ROOT files HIJING_LBF_test_small.root obtained in the previous step and passes them to dedicated ROOT macros for final analysis.
 
 To execute the program, use the following command line:
+
 source TheFinalTouch.sh (PATH)/HIJING_LBF_test
